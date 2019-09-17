@@ -1,1 +1,1 @@
-# GItam-Vizag-Python
+# Gitam-Vizag-Python
